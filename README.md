@@ -6,7 +6,7 @@
 <details>
 <summary>How to reach out to me</summary>
 
+<br>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongjin-chen-103a46280/)[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:violethongjinchen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongjin-chen-103a46280/)                [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:violethongjinchen@gmail.com)
 </details>
