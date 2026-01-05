@@ -4,7 +4,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,js,figma,react,tailwind,ts,mongodb,r,mysql,firebase" />
 
 <details>
-<summary><b>How to reach out to me</b> 🥰</summary>
+<summary><b>How to reach out to me</b> </summary>
 
 <br>
 
